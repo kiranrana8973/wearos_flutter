@@ -1,0 +1,8 @@
+
+flutter run --no-sound-null-safety
+
+or 
+
+for other methods go to the below link
+
+https://fluttercorner.com/cannot-run-with-sound-null-safety-because-dependencies-dont-support-null-safety/
